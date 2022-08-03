@@ -6,7 +6,7 @@
 ![line](./img/line.gif)
 
 ### I am Frontend software developer
-Hi, I'm [Chukewuemeka Patrick](https://vercel.com/emmydon/patrickemeka), a  web developer and a frontend software developer.
+Hi, I'm [Chukewuemeka Patrick](https://patrickemeka.vercel.app/), a  web developer and a frontend software developer.
 
  I am also an React enthusiast and i love how collaboration and knowledge sharing happened through pair programming and learning new skills. HAPPY CODING 
 
