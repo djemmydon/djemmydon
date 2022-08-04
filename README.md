@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Chukwuemeka Patrick</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&color=7AF79A&lines=djemmydon+here...;I'm+a+frontend+developer;I'm+available+for+hire;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&color=7AF79A&lines=djemmydon+here...;I+am+a+frontend+developer;I'm+available+for+hire;)](https://git.io/typing-svg)
 
 ![line](./img/line.gif)
 
